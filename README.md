@@ -1,4 +1,4 @@
-# RBANS_report
+# Testing Report Web Application
 Index and subtest scoring for the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)
 
 The RBANS is a brief (less than 30 minutes), individually administered test that helps determine the neuropsychological status of adults ages 20 through 89 who have neurologic injury or disease such as dementia, head injury, and stroke. It assesses learning and memory, visual perception and construction, language, attention and processing speed. We use this measure on a daily basis in our outpatient clinic. Scoring requires that the professional look up values in a series of tables. In our use, reporting scores was done immediately after the patient was assessed and scores were reviewed by the neuropsychologist prior to meeting the patient on the same day, sometimes right after testing. So it was important to be able to do this very quickly and to minimize error -- best done by avoiding having to use tables to score.
